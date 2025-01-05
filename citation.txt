@@ -1,0 +1,15 @@
+@article{REPO081,
+    author = "Guo, Haoxiang and Liu, Shilin and Pan, Hao and Liu, Yang and Tong, Xin and Guo, Baining",
+    articleno = "129",
+    doi = "10.1145/3528223.3530078",
+    issue_date = "July 2022",
+    journal = "ACM Trans. Graph. (SIGGRAPH)",
+    month = "July",
+    number = "4",
+    numpages = "18",
+    publisher = "Association for Computing Machinery",
+    title = "{ComplexGen: CAD Reconstruction by B-Rep Chain Complex Generation}",
+    url = "https://doi.org/10.1145/3528223.3530078",
+    volume = "41",
+    year = "2022"
+}
