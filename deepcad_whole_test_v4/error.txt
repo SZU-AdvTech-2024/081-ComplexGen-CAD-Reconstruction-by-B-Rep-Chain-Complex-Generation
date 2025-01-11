@@ -1,0 +1,9 @@
+00768511: Edge not in edge_face_look_up_table
+An error occurred on line 227 in get_brep
+
+00264990: 'NoneType' object has no attribute 'NbNodes'
+An error occurred on line 99 in get_brep
+
+00293886: Edge not in edge_face_look_up_table
+An error occurred on line 227 in get_brep
+
